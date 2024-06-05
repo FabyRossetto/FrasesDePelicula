@@ -1,0 +1,7 @@
+com\aluracursos\screenmatchfrases\FraseService.class
+com\aluracursos\screenmatchfrases\FraseDTO.class
+com\aluracursos\screenmatchfrases\CorsConfiguration.class
+com\aluracursos\screenmatchfrases\Frase.class
+com\aluracursos\screenmatchfrases\FraseController.class
+com\aluracursos\screenmatchfrases\FraseRepository.class
+com\aluracursos\screenmatchfrases\ScreenmatchFrasesApplication.class
